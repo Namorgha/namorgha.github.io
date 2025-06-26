@@ -58,9 +58,7 @@ document.querySelectorAll('.section').forEach(section => {
 // CV download functionality
 document.getElementById('cvBtn').addEventListener('click', function (e) {
     e.preventDefault();
-    alert('Please upload your CV file and update the link!');
-    // Replace with actual CV download link:
-    // window.open('path/to/your/cv.pdf', '_blank');
+    window.location.href = 'files/Namorgha_Portfolio.pdf';
 });
 
 // Navbar background on scroll
