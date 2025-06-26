@@ -1,2 +1,0 @@
-# namorgha.github.io
-Portfolio
